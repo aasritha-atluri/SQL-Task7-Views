@@ -3,6 +3,10 @@
 This repository contains the SQL script for **Task 7** of the SQL Developer Internship.  
 It demonstrates how to create and use **views** in the Library Management System database.
 
+## Prerequisite
+Before running this script, please make sure you have already created the tables from **Task 1**.  
+You can find it here: [Library-Management-Schema](https://github.com/aasritha-atluri/Library-Management-Schema) and also insert data from **SQL-Task 2**.
+
 
 ## Objective
 Learn how to use **CREATE VIEW** to:
